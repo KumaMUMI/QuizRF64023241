@@ -2,7 +2,7 @@
 Documentation     Quiz RF 64023241 "TestCase 1"
 Library           SeleniumLibrary
 Suite Setup       Open Browser    https://automationexercise.com/    chrome
-# Suite Teardown    Close Browser
+Suite Teardown    Close Browser
 
 *** Variables ***
 ${NAME}    kumaMUMI
